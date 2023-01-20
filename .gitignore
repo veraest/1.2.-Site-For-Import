@@ -89,9 +89,9 @@ fastlane/test_output
 
 iOSInjectionProject/
 
-/tmp
-/Thumbs.db
+tmp/
+Thumbs.db
 *.old
-*backup
+*.backup
 *.DS_Store.
 
