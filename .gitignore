@@ -88,3 +88,10 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+/tmp
+/Thumbs.db
+*.old
+*backup
+*.DS_Store.
+
